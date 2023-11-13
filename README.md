@@ -76,3 +76,15 @@
 <li>Guest users can search for amazing places.</li>
 <li>Guest users can view the details of the place type.</li>
 </ul>
+
+<ul>
+<h2>Required System</h2>
+<li> Any OS (Windows recomanded)</li>
+<li> Laravel PHP Framework version 8 </li>
+<li> PHP version 7.2.0.</li>
+<li>Composer version 2.0.12</li>
+<li>MySQL Database</li>
+<li>Server type MariaDB.</li>
+<li>Apache version 2.4.46</li>
+<li>PhpMyAdmin DBMS version 5.0.4</li>
+</ul>
